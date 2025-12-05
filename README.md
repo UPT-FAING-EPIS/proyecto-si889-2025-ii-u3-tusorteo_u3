@@ -27,11 +27,17 @@
 
 ---
 
+## 📱 Visitar Pagina: [TuSorteo](https://tusorteo.vercel.app/)
+## 👀 Video: [Demostracion-TuSorteo](https://drive.google.com/file/d/1jfH9eFswYwAiRIx5b3-_BYtPdpFDlWX1/view?usp=sharing)
+
+---
+
 ## 🎨 Acerca del Proyecto
 
 **TuSorteo** es una aplicación web diseñada para facilitar la creación y gestión de sorteos simples y dinámicos, orientada específicamente a concursos presenciales. El sistema permite a los organizadores configurar los sorteos, mientras que los participantes pueden unirse registrándose o utilizando un código de sorteo generado. La plataforma soporta la selección de un único ganador o de una determinada cantidad de ganadores. Al ser una aplicación web, está optimizada con un diseño adaptativo para funcionar correctamente en dispositivos móviles.
 
 ---
+
 ## 🎯 Objetivo
 - Desarrollar e implementar una plataforma web (TuSorteo) que automatice, simplifique y dinamice la gestión de sorteos para eventos y concursos presenciales.
 
@@ -40,10 +46,6 @@
 - Implementar la funcionalidad de creación de sorteos, permitiendo la configuración de uno o "n" ganadores.
 - Asegurar que la interfaz de usuario sea completamente adaptativa (responsive) para una correcta visualización y uso en dispositivos móviles.
 - Implementar la lógica de selección aleatoria de ganadores de forma transparente y fiable.
-
----
-
-## 📱 Visitar Pagina: [TuSorteo](https://tusorteo.vercel.app/)
 
 ---
 
